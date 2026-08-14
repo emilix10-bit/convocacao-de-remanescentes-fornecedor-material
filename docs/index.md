@@ -20,7 +20,7 @@ Utilize o Compras.gov.br para participar de uma convocação de remanescentes em
 
 Para garantir a melhor experiência de consulta e atender às diferentes necessidades de leitura, disponibilizamos a documentação em múltiplos formatos de acesso, quais sejam:
 
-* [Padrão - escolha que seção específica quer acessão](./)
+* [Padrão - escolha a seção que quer ler na barra de menu acima](./)
 * [Página única - todo o manual em uma tela](versao-impressao.md)
 
 <div style="text-align: right; margin: 20px 0;">
