@@ -1,11 +1,10 @@
-site_name: Convocação de Remanescentes - Visão Fornecedor
-
+site_name: Convocação de Remanescentes - Fornecedor
 theme:
-  name: readthedocs
-
-markdown_extensions:
-  - md_in_html
-  - admonition
+  name: material
+  language: pt-BR
+  features:
+    - navigation.tabs
+    - navigation.top
 
 nav:
   - Início: index.md
@@ -13,11 +12,4 @@ nav:
   - 2. Manifestando interesse: 02-manifestando-interesse.md
   - 3. Condições do vencedor: 03-condicoes-vencedor.md
   - 4. Negociação de preços: 04-negociacao-precos.md
-  - 🖨️ Versão Completa para Impressão: manual-completo.md
-
-# Configuração dos estilos e scripts customizados (largura da tela e zoom nas imagens)
-extra_css:
-  - custom.css
-
-extra_javascript:
-  - js/custom.js
+  - 🖨️ Versão para Impressão: manual-completo.md
